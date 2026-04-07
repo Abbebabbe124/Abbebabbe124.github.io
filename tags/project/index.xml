@@ -1,33 +1,52 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project on Albin Billing</title><link>/tags/project/</link><description>Recent content in Project on Albin Billing</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2026 10:11:00 +0000</lastBuildDate><atom:link href="/tags/project/index.xml" rel="self" type="application/rss+xml"/><item><title>Catstronaut: Mission Impawssible</title><link>/projects/catstronaut/</link><pubDate>Wed, 01 Apr 2026 10:11:00 +0000</pubDate><guid>/projects/catstronaut/</guid><description>&lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;h2 id="my-contributions"&gt;My Contributions&lt;/h2&gt;
-&lt;h2 id="results"&gt;Results&lt;/h2&gt;
-&lt;h2 id="lessons-learned"&gt;Lessons Learned&lt;/h2&gt;</description></item><item><title>Spite: Equilibrium</title><link>/projects/spite-equilibrium/</link><pubDate>Fri, 05 Dec 2025 10:00:00 +0000</pubDate><guid>/projects/spite-equilibrium/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/d6Pe73D_B7A?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
+&lt;p&gt;&lt;strong&gt;Catstronaut: Mission Impaswwible&lt;/strong&gt; was the 6th game I worked on at TGA. It is a 3D third person platformer inspired by Mario 64 &amp;amp; Mario Odyssey. The game was built in our custom game engine &lt;strong&gt;BOB&lt;/strong&gt;, with Unreal Engine acting as a level designer.&lt;/p&gt;</description></item><item><title>Spite: Equilibrium</title><link>/projects/spite-equilibrium/</link><pubDate>Fri, 05 Dec 2025 10:00:00 +0000</pubDate><guid>/projects/spite-equilibrium/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+ &lt;iframe
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
+ loading="lazy"
+ referrerpolicy="strict-origin-when-cross-origin"
+ src="https://www.youtube.com/embed/d6Pe73D_B7A?autoplay%3d0%26controls%3d1%26end%3d0%26loop%3d0%26mute%3d0%26start%3d0"
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+ title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Spite: Equilibrium&lt;/strong&gt; was the 5th game I worked on at TGA. The project was split in two, with the first one being pre-production and the second being actual production.&lt;/p&gt;</description></item><item><title>Bloom Eternal</title><link>/projects/bloom-eternal/</link><pubDate>Tue, 06 May 2025 10:00:00 +0000</pubDate><guid>/projects/bloom-eternal/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dEkKYZpwTlE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
+ &lt;iframe
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
+ loading="lazy"
+ referrerpolicy="strict-origin-when-cross-origin"
+ src="https://www.youtube.com/embed/dEkKYZpwTlE?autoplay%3d0%26controls%3d1%26end%3d0%26loop%3d0%26mute%3d0%26start%3d0"
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+ title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bloom Eternal&lt;/strong&gt; was the 4th game I worked on at TGA, with a duration of 8 weeks. The game was made in TGE (The Game Engine), TGAs in-house game engine, with Unity acting as a level designer using an export script that exports scenes into JSON files. Due to the relatively short time we had, and the fact that we were one programmer short, this was quite a stressfull game project. But we did our best and managed to get it done.&lt;/p&gt;</description></item><item><title>Grim Fate Awaits</title><link>/projects/grim-fate-awaits/</link><pubDate>Fri, 04 Apr 2025 10:00:00 +0000</pubDate><guid>/projects/grim-fate-awaits/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/iTCwuRnwLcU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
+ &lt;iframe
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
+ loading="lazy"
+ referrerpolicy="strict-origin-when-cross-origin"
+ src="https://www.youtube.com/embed/iTCwuRnwLcU?autoplay%3d0%26controls%3d1%26end%3d0%26loop%3d0%26mute%3d0%26start%3d0"
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+ title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;h2 id="my-contributions"&gt;My Contributions&lt;/h2&gt;
-&lt;h2 id="results"&gt;Results&lt;/h2&gt;
-&lt;h2 id="lessons-learned"&gt;Lessons Learned&lt;/h2&gt;</description></item><item><title>Flesh In The Cogs</title><link>/projects/flesh-in-the-cogs/</link><pubDate>Fri, 13 Dec 2024 10:00:00 +0000</pubDate><guid>/projects/flesh-in-the-cogs/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/wf5a9FQNXCk?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
+&lt;p&gt;&lt;strong&gt;Graim Fate Awaits&lt;/strong&gt; was the 3rd game I worked on at TGA, with a duration of 12 weeks. The game was made in TGE (The Game Engine), TGAs in-house game engine, with Unity acting as a level designer using an export script that exports scenes into JSON files.&lt;/p&gt;</description></item><item><title>Flesh In The Cogs</title><link>/projects/flesh-in-the-cogs/</link><pubDate>Fri, 13 Dec 2024 10:00:00 +0000</pubDate><guid>/projects/flesh-in-the-cogs/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+ &lt;iframe
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
+ loading="lazy"
+ referrerpolicy="strict-origin-when-cross-origin"
+ src="https://www.youtube.com/embed/wf5a9FQNXCk?autoplay%3d0%26controls%3d1%26end%3d0%26loop%3d0%26mute%3d0%26start%3d0"
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+ title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
-&lt;h2 id="my-contributions"&gt;My Contributions&lt;/h2&gt;
-&lt;h2 id="results"&gt;Results&lt;/h2&gt;
-&lt;h2 id="lessons-learned"&gt;Lessons Learned&lt;/h2&gt;</description></item><item><title>Early Bird</title><link>/projects/early-bird/</link><pubDate>Fri, 25 Oct 2024 10:00:00 +0000</pubDate><guid>/projects/early-bird/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PM2JWWO9Rw8?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
+&lt;p&gt;&lt;strong&gt;Flesh in the Cogs&lt;/strong&gt; was the second game I worked on at TGA. It is an isometric mobile puzzle game, inspired by &lt;strong&gt;Lara Croft GO&lt;/strong&gt;, and was made in Unity over the course of 6 weeks. This project really challenged our way of thinking how to implement stuff as the performance was really limited when making a mobile game. To make it extra challenging, the devices that were used by the educators when playing the game were several years old, making the experience of optimizing a little bit frustrating at times. In the end we make it work, with several lessons learned in optimizing.&lt;/p&gt;</description></item><item><title>Early Bird</title><link>/projects/early-bird/</link><pubDate>Fri, 25 Oct 2024 10:00:00 +0000</pubDate><guid>/projects/early-bird/</guid><description>&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+ &lt;iframe
+ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen"
+ loading="lazy"
+ referrerpolicy="strict-origin-when-cross-origin"
+ src="https://www.youtube.com/embed/PM2JWWO9Rw8?autoplay%3d0%26controls%3d1%26end%3d0%26loop%3d0%26mute%3d0%26start%3d0"
+ style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+ title="YouTube video"&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 &lt;h2 id="overview"&gt;Overview&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Early Bird&lt;/strong&gt; was the first game I worked on at TGA. It is an endless runner, inspired by Race The Sun, and was made in Unity over the course of 6 weeks.&lt;/p&gt;</description></item></channel></rss>
