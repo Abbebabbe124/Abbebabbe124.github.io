@@ -873,6 +873,9 @@
   .py-\[2\.5px\] {
     padding-block: 2.5px;
   }
+  .pt-0 {
+    padding-top: calc(var(--spacing) * 0);
+  }
   .pt-7 {
     padding-top: calc(var(--spacing) * 7);
   }
@@ -3836,15 +3839,15 @@ input#nav-toggle:checked ~ #nav-menu {
 .gallery-slider {
   margin-left: calc(var(--spacing) * 0) !important;
 }
-.section:has(h1) {
+.home-hero-shell {
   background-image: url('/images/background.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   position: relative;
-  padding-bottom: 55rem;
+  isolation: isolate;
 }
-.section:has(h1)::before {
+.home-hero-shell::before {
   content: '';
   position: absolute;
   top: 0;
@@ -3854,14 +3857,9 @@ input#nav-toggle:checked ~ #nav-menu {
   background-color: rgba(0, 0, 0, 0.8);
   pointer-events: none;
 }
-.section:has(h1) > * {
+.home-hero-shell > * {
   position: relative;
   z-index: 1;
-}
-.section:has(h1) + .section {
-  margin-top: -53rem;
-  position: relative;
-  z-index: 2;
 }
 .specialization-hero {
   background-image: url('/images/background.png');
@@ -3892,11 +3890,11 @@ html.dark .page-subtitle {
   color: #1b1b1b;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.45);
 }
-html:not(.dark) .section:has(h1), html:not(.dark) .specialization-hero {
+html:not(.dark) .home-hero-shell, html:not(.dark) .specialization-hero {
   background-color: rgba(255, 255, 255, 0.52);
   background-blend-mode: screen;
 }
-html:not(.dark) .section:has(h1)::before {
+html:not(.dark) .home-hero-shell::before {
   background-color: rgba(0, 0, 0, 0.45);
 }
 html:not(.dark) .specialization-hero::before {
