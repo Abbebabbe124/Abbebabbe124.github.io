@@ -3981,6 +3981,60 @@ img[data-lightbox]:hover {
     height: 38px;
   }
 }
+.bird-gallery {
+  margin-top: 1.25rem;
+  column-count: 1;
+  column-gap: 1rem;
+}
+.bird-gallery-item {
+  display: block;
+  margin: 0 0 1rem;
+  break-inside: avoid;
+  -webkit-column-break-inside: avoid;
+  overflow: hidden;
+  border-radius: 0.85rem;
+  background: transparent;
+  box-shadow: none;
+}
+.bird-gallery-item:hover img {
+  transform: scale(1.015);
+}
+.bird-gallery-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: inherit;
+  transition: transform 0.2s ease, filter 0.2s ease;
+}
+.bird-gallery-item:hover img {
+  filter: brightness(1.03);
+}
+.bird-gallery-empty {
+  margin-top: 1rem;
+  padding: 0.9rem 1rem;
+  border-radius: 0.6rem;
+  border: 1px dashed #aeb8c8;
+  background: #f6f8fc;
+}
+html.dark .bird-gallery-empty {
+  background: #111827;
+  border-color: #364152;
+}
+@media (min-width: 768px) {
+  .bird-gallery {
+    column-count: 2;
+  }
+}
+@media (min-width: 1200px) {
+  .bird-gallery {
+    column-count: 3;
+  }
+}
+@media (min-width: 1600px) {
+  .bird-gallery {
+    column-count: 4;
+  }
+}
 @layer base {
   input:where([type='text']),input:where(:not([type])),input:where([type='email']),input:where([type='url']),input:where([type='password']),input:where([type='number']),input:where([type='date']),input:where([type='datetime-local']),input:where([type='month']),input:where([type='search']),input:where([type='tel']),input:where([type='time']),input:where([type='week']),select:where([multiple]),textarea,select {
     appearance: none;
